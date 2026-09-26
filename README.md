@@ -28,7 +28,7 @@
                                     │ Service Role Sync
                                     │
 ┌───────────────────────────────────┴────────────────────────────────────┐
-│ 3. COMPUTE & ORCHESTRATION TIER (GitHub Actions Ephemeral Runner)       │
+│ 3. COMPUTE & ORCHESTRATION TIER (GitHub Actions Ephemeral Runner)      │
 │                                                                        │
 │  Cron (5:00 AM IST) ──► Load DB Profile & Events                       │
 │                         ──► Gemini API: Formulate search queries       │
